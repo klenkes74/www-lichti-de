@@ -35,6 +35,14 @@
     {% assign second_level_pages = second_level_pages | sort: 'url' %}
     {% assign third_level_pages = third_level_pages | sort: 'url' %}
 
+    <h2>{{ site.data.categories.docs_list_title }}</h2>
+    <ul class="nav-list">
+        {% for item in site.data.categories.docs %}
+        <li><a href="{{ item.url }}">{{ item.title }}</a></li>
+        {% endfor %}
+    </ul>
+
+    <h2>Seiten</h2>
     <ul class="nav-list">
         {%- for node in first_level_pages -%}
         {%- assign node_url = node.url | remove: 'index.html' -%}

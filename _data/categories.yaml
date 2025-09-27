@@ -1,0 +1,12 @@
+docs_list_title: "Kategorien"
+docs:
+  - title: "Persönliches"
+    url: "/Persönliches/"
+  - title: "Saftläden"
+    url: "/Saftläden/"
+  - title: "Wort zum Sonntag"
+    url: "/Wort zum Sonntag/"
+  - title: "Software"
+    url: "/Software/"
+  - title: "Live Coding"
+    url: "/Live Coding/"
