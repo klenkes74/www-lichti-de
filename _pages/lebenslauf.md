@@ -1,7 +1,6 @@
 ---
 title: Lebenslauf
 thumbnail: /assets/img/klenkes74.jpg
-permalink: /lebenslauf/
 bookmark: true
 author:
   display_name: klenkes74
