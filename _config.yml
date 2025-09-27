@@ -1,0 +1,57 @@
+title: "Roland Thomas Lichti"
+description: >- # this means to ignore newlines until "baseurl:"
+  Softwareentwicklung. Meinungen. Rants.
+logo_img: "/assets/img/lichti-wappen.png"
+profile_img: "/assets/img/klenkes74.jpg"
+
+url: "https://www.lichti.de"
+baseurl: ""
+
+email: "roland@lichti.de"
+github_username: "klenkes74"
+linkedin_username: "rolandlichti"
+twitter_username:
+instagram_username:
+facebook_username:
+
+giscus_repo:
+giscus_repoId:
+giscus_category:
+giscus_categoryId:
+goatcounter_code:
+google_analytics:
+
+theme: "jekyll-theme-satellite"
+plugins:
+  - "jekyll-feed"
+  - "jekyll-sitemap"
+
+exclude:
+  - _posts
+  - "_posts"
+  - ".gitignore"
+  - "Gemfile"
+  - "Gemfile.lock"
+  - ".dockerignore"
+  - "Dockerfile"
+  - "*-local"
+  - "README.md"
+  - "LICENSE"
+  - ".idea/"
+
+collections:
+  pages:
+    output: true
+    permalink: /:path.html
+    
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+      date: "1900-01-01"
+
+kramdown:
+  input: "GFM"
+  hard_wrap: true
