@@ -1,7 +1,5 @@
 .sass-cache
 .jekyll-cache/
 .jekyll-metadata
-.idea/
 vendor
 _site/
-*-local
