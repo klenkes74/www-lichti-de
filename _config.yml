@@ -21,10 +21,12 @@ giscus_categoryId:
 goatcounter_code:
 google_analytics:
 
-theme: "jekyll-theme-satellite"
 plugins:
+  - "jekyll-remote-theme"
   - "jekyll-feed"
   - "jekyll-sitemap"
+
+remote_theme: "byanko55/jekyll-theme-satellite"
 
 exclude:
   - _posts
