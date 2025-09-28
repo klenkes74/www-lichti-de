@@ -10,7 +10,7 @@
     <mapping directory="" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../../kaiserpfalz-edv/gitops-kaiserpfalz-edv" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../../kaiserpfalz-edv/gitops-paladins-inn" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/../../kaiserpfalz-edv/kaiserpfalz-edv" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../kaiserpfalz-edv/www-kaiserpfalz-edv-de" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../../paladins-inn/www-paladins-inn-de" vcs="Git" />
   </component>
 </project>

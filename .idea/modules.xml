@@ -4,7 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/../../kaiserpfalz-edv/gitops-kaiserpfalz-edv/gitops-kaiserpfalz-edv.iml" filepath="$PROJECT_DIR$/../../kaiserpfalz-edv/gitops-kaiserpfalz-edv/gitops-kaiserpfalz-edv.iml" />
       <module fileurl="file://$PROJECT_DIR$/../../kaiserpfalz-edv/gitops-paladins-inn/gitops-paladins-inn.iml" filepath="$PROJECT_DIR$/../../kaiserpfalz-edv/gitops-paladins-inn/gitops-paladins-inn.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../../kaiserpfalz-edv/kaiserpfalz-edv/kaiserpfalz-edv.iml" filepath="$PROJECT_DIR$/../../kaiserpfalz-edv/kaiserpfalz-edv/kaiserpfalz-edv.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../kaiserpfalz-edv/www-kaiserpfalz-edv-de/www-kaiserpfalz-edv-de.iml" filepath="$PROJECT_DIR$/../../kaiserpfalz-edv/www-kaiserpfalz-edv-de/www-kaiserpfalz-edv-de.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/www-lichti-de.iml" filepath="$PROJECT_DIR$/.idea/www-lichti-de.iml" />
       <module fileurl="file://$PROJECT_DIR$/../../paladins-inn/www-paladins-inn-de/www-paladins-inn-de.iml" filepath="$PROJECT_DIR$/../../paladins-inn/www-paladins-inn-de/www-paladins-inn-de.iml" />
     </modules>
