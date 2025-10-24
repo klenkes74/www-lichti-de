@@ -20,9 +20,6 @@ tags:
 - Images
 comments: []
 ---
-> Was wäre ein Mann, der die Welt nicht verbessert?
-> -- Balian, Königreich der Himmel
-
 Ich habe gerade festgestellt, dass das grandiose Blog headrush.typepad.com nicht mehr funktioniert, da typepad.com seinen Geschäftsbetrieb eingestellt hat.
 Zum Glück hat Kathy Sierra das Blog unter der Creative Commons License Attribution-NonCommercial-ShareAlike 2.5 veröffentlicht.
 Damit kann ich die wunderbaren Bilder ihres letzten Postings hier retten für das Internet:
