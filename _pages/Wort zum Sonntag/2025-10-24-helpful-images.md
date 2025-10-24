@@ -2,7 +2,7 @@
 layout: page
 status: publish
 published: true
-title: KI-Anrufe
+title: Helpful Images
 thumbnail: /assets/gallery/kathy-sierra/buythis.jpg
 author:
   display_name: klenkes74
@@ -20,9 +20,6 @@ tags:
 - Images
 comments: []
 ---
-
-## Gerettete Bilder
-
 > Was wäre ein Mann, der die Welt nicht verbessert?
 > -- Balian, Königreich der Himmel
 
