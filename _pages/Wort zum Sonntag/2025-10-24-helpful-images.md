@@ -1,16 +1,20 @@
 ---
 title: Helpful Images
 thumbnail: /assets/gallery/kathy-sierra/buythis.jpg
-author_login: klenkes74
-date: 2025-10-24 22:00:00 +0100
+date: '2025-10-24 22:00:00 +0200'
 categories:
+- Bilder
 - Roland denkt
 - Das Wort zum Sonntag
 - Deutsch
+tags:
+- Kathy Sierra
+- Headrush Blog
+- CC BY-NC-SA 2.5
 comments: []
 ---
 <p>Ich habe gerade festgestellt, dass das grandiose Blog headrush.typepad.com nicht mehr funktioniert, da typepad.com seinen Geschäftsbetrieb eingestellt hat.
-Zum Glück hat Kathy Sierra das Blog unter der Creative Commons License Attribution-NonCommercial-ShareAlike 2.5 veröffentlicht.
+Zum Glück hat Kathy Sierra das Blog unter der <a href="https://creativecommons.org/licenses/by-nc-sa/2.5/deed.de">Creative Commons License Attribution-NonCommercial-ShareAlike 2.5</a> veröffentlicht.
 </p>
 
 <p>Damit kann ich die wunderbaren Bilder ihres letzten Postings hier retten für das Internet:</p>
