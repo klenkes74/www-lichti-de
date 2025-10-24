@@ -1,23 +1,12 @@
 ---
-layout: page
-status: publish
-published: true
 title: Helpful Images
 thumbnail: /assets/gallery/kathy-sierra/buythis.jpg
-author:
-  display_name: klenkes74
-  login: klenkes74
-  email: roland@lichti.de
-  url: ''
 author_login: klenkes74
-author_email: roland@lichti.de
-date: '2025-10-24 22:00:00 +0100'
+date: 2025-10-24 22:00:00 +0100
 categories:
 - Roland denkt
 - Das Wort zum Sonntag
 - Deutsch
-tags:
-- Images
 comments: []
 ---
 Ich habe gerade festgestellt, dass das grandiose Blog headrush.typepad.com nicht mehr funktioniert, da typepad.com seinen Geschäftsbetrieb eingestellt hat.
