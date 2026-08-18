@@ -26,7 +26,7 @@ tags:
 - slf4j
 comments: []
 ---
-Vor über 4 Jahren habe ich bereits im Beitrag [Logging in Java](./logging-in-java/) ein paar grundlegende Gedanken zum Thema Logging geäußert. Dabei bin ich recht unspezifisch geblieben und habe nur ein paar grundlegende Ideen geäußert. Diesmal will ich etwas konkreter werden.
+Vor über 4 Jahren habe ich bereits im Beitrag [Logging in Java](./logging-in-java.html) ein paar grundlegende Gedanken zum Thema Logging geäußert. Dabei bin ich recht unspezifisch geblieben und habe nur ein paar grundlegende Ideen geäußert. Diesmal will ich etwas konkreter werden.
 
 <!--more-->
 
