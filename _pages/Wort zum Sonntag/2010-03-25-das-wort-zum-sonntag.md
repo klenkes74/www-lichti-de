@@ -21,7 +21,10 @@ categories:
 tags: []
 comments: []
 ---
-<p>Es gibt ein paar Menschen, mit denen ich mich gerne unterhalte. Und oft ist es reiner Unsinn, den wir dann zusammenspinnen. Aber manchmal kommen echte Perlen zum Vorschein.</p>
-<p>Und gestern schlug ein Kollege vor, daß man diese Perlen eigentlich publizieren müßte - zum Beispiel als Blog. Da ich sehr viel von ihm und seinen Ideen halte, dachte ich mir: Roland, das machst Du.</p>
-<p>Ich werde also in loser Folge Gedanken zu Organisation von Firmen, dem Berufsleben und dem Universum, dem Leben und dem ganzen Rest hier veröffentlichen. Keine großgeistigen Dinge, aber Weisheiten und Binsenweisheiten, bei denen ich mich frage, ob ich ein solcher Spinner bin oder ob das viele andere Menschen einfach nicht wahrnehmen.</p>
-<p>Vielleicht interessiert es ja jemanden.</p>
+Es gibt ein paar Menschen, mit denen ich mich gerne unterhalte. Und oft ist es reiner Unsinn, den wir dann zusammenspinnen. Aber manchmal kommen echte Perlen zum Vorschein.
+
+Und gestern schlug ein Kollege vor, daß man diese Perlen eigentlich publizieren müßte - zum Beispiel als Blog. Da ich sehr viel von ihm und seinen Ideen halte, dachte ich mir: Roland, das machst Du.
+
+Ich werde also in loser Folge Gedanken zu Organisation von Firmen, dem Berufsleben und dem Universum, dem Leben und dem ganzen Rest hier veröffentlichen. Keine großgeistigen Dinge, aber Weisheiten und Binsenweisheiten, bei denen ich mich frage, ob ich ein solcher Spinner bin oder ob das viele andere Menschen einfach nicht wahrnehmen.
+
+Vielleicht interessiert es ja jemanden.

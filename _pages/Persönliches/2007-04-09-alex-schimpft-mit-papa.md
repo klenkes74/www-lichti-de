@@ -21,14 +21,16 @@ categories:
 tags: []
 comments: []
 ---
-<p>Nachdem wir in der letzten Zeit einige nette Sachen mit Alex erlebt<br />
-haben, wollen wir auch wieder anfangen, sie hier für die weitere<br />
-Verwandschaft zu veröffentlichen.</p>
-<p>So wie vor ein paar Tagen, als Alex und ich zusammen badeten und uns<br />
-gegenseitig naßspritzten, wollte sie auf einmal damit aufhören und sagte<br />
-in ihrer süßen Stimme "auf-hören". Aber Papa wollte nicht aufhören und<br />
-spritzte weiter.</p>
-<p>Plötzlich stand sie auf, stemmte ihre Händchen in die Hüfte: "So -<br />
-Ärger. Alex böse!" und stellte sich in der gleichen Drohpose hin, die<br />
-ich selbst einnehme, wenn sie zum 10ten Mal nicht mit ihrem Unsinn<br />
-aufhören will ...</p>
+Nachdem wir in der letzten Zeit einige nette Sachen mit Alex erlebt\
+haben, wollen wir auch wieder anfangen, sie hier für die weitere\
+Verwandschaft zu veröffentlichen.
+
+So wie vor ein paar Tagen, als Alex und ich zusammen badeten und uns\
+gegenseitig naßspritzten, wollte sie auf einmal damit aufhören und sagte\
+in ihrer süßen Stimme "auf-hören". Aber Papa wollte nicht aufhören und\
+spritzte weiter.
+
+Plötzlich stand sie auf, stemmte ihre Händchen in die Hüfte: "So -\
+Ärger. Alex böse!" und stellte sich in der gleichen Drohpose hin, die\
+ich selbst einnehme, wenn sie zum 10ten Mal nicht mit ihrem Unsinn\
+aufhören will ...

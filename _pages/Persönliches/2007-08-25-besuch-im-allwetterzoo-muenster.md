@@ -22,8 +22,10 @@ categories:
 tags: []
 comments: []
 ---
-<p>Wir sind inzwischen zum 2. Mal mit Alex im Allwetterzoo in Münster gewesen und es war ein wunderschöner Tag.</p>
-<p>Sogar Kaspar war sehr friedlich und hat sich meistens nicht für die anderen Hunde interessiert.</p>
-<p>Einige Bilder wollen wir euch nicht vorenthalten ...</p>
-<p><!--more--></p>
-<p>[mygal=2007-08-25]</p>
+Wir sind inzwischen zum 2. Mal mit Alex im Allwetterzoo in Münster gewesen und es war ein wunderschöner Tag.
+
+Sogar Kaspar war sehr friedlich und hat sich meistens nicht für die anderen Hunde interessiert.
+
+Einige Bilder wollen wir euch nicht vorenthalten ...
+
+[mygal=2007-08-25]

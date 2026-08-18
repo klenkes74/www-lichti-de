@@ -24,12 +24,8 @@ tags:
 - maven
 comments: []
 ---
-<p><!-- wp:paragraph --></p>
-<p>Ich mache oft den "Spaß" beim Starten von Maven den beliebten Satz zu sagen: "Jetzt lädt Maven erstmal das Internet runter." - denn beim ersten Lauf auf einem Rechner müssen dutzende Libraries alleine für Maven geladen werden.</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
-<p>Aber eben habe ich bei einem kleineren quarkus.io-basierten Projekt mal ein "mvn site" gestartet ...</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
-<p><strong><em>DAS</em></strong> kann man dann "Internet herunterladen" nennen.</p>
-<p><!-- /wp:paragraph --></p>
+Ich mache oft den "Spaß" beim Starten von Maven den beliebten Satz zu sagen: "Jetzt lädt Maven erstmal das Internet runter." - denn beim ersten Lauf auf einem Rechner müssen dutzende Libraries alleine für Maven geladen werden.
+
+Aber eben habe ich bei einem kleineren quarkus.io-basierten Projekt mal ein "mvn site" gestartet ...
+
+**_DAS_** kann man dann "Internet herunterladen" nennen.

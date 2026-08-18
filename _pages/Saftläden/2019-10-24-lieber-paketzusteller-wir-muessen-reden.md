@@ -21,9 +21,6 @@ categories:
 tags: []
 comments: []
 ---
-<p><!-- wp:image {"id":557} --></p>
-<figure class="wp-block-image"><img src="https://www.lichti.de/wp-content/uploads/2019/10/Unterschrieben-von-Haustür.png" alt="" class="wp-image-557"/></figure>
-<p><!-- /wp:image --></p>
-<p><!-- wp:paragraph --></p>
-<p>... oder ne, eigentlich nicht ...</p>
-<p><!-- /wp:paragraph --></p>
+![](https://www.lichti.de/wp-content/uploads/2019/10/Unterschrieben-von-Haustür.png)
+
+... oder ne, eigentlich nicht ...

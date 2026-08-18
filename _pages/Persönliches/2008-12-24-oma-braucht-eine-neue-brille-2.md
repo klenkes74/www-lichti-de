@@ -21,6 +21,8 @@ categories:
 tags: []
 comments: []
 ---
-<p>Beim Frühstück erzählte Oma, daß sie im nächsten Jahr zum Optiker muß, um eine neue Brille zu bekommen. Sie sehe mit der alten nicht mehr so gut.</p>
-<p>Daraufhin meinte Alex nur: "Du mußt sie nur richtig putzen! Dann siehst Du auch wieder gut."</p>
-<p>Jaja, für Kinder ist es immer einfach ...</p>
+Beim Frühstück erzählte Oma, daß sie im nächsten Jahr zum Optiker muß, um eine neue Brille zu bekommen. Sie sehe mit der alten nicht mehr so gut.
+
+Daraufhin meinte Alex nur: "Du mußt sie nur richtig putzen! Dann siehst Du auch wieder gut."
+
+Jaja, für Kinder ist es immer einfach ...

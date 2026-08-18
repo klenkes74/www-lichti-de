@@ -21,7 +21,8 @@ categories:
 tags: []
 comments: []
 ---
-<br />
-<blockquote><p><em>Es ist schon interessant, was Kinder alles sagen und machen, um nicht ins Bett zu müssen ...</em></p></blockquote>
-<p>Von Freitag bis heute war Alex bei den Großeltern in Halle im Urlaub. Am Freitag kam die Polizei zu Nachbarn, weil diese zu laut feierten. Als Alex um 00:15 aufs Klo mußte, wollte sie danach nicht mehr schlafen gehen.</p>
-<p>Als letzten Ausweg vor dem Bett schlug Alex vor, daß sie lieber baden gehen würde. Oma meinte nur, daß das zu laut wäre und dann die Polizei kommen würde. Aber auch hier hatte Alex eine Lösung für das Problem: "<em>Die Polizei ist geplatzt!</em>"</p>
+> _Es ist schon interessant, was Kinder alles sagen und machen, um nicht ins Bett zu müssen ..._
+
+Von Freitag bis heute war Alex bei den Großeltern in Halle im Urlaub. Am Freitag kam die Polizei zu Nachbarn, weil diese zu laut feierten. Als Alex um 00:15 aufs Klo mußte, wollte sie danach nicht mehr schlafen gehen.
+
+Als letzten Ausweg vor dem Bett schlug Alex vor, daß sie lieber baden gehen würde. Oma meinte nur, daß das zu laut wäre und dann die Polizei kommen würde. Aber auch hier hatte Alex eine Lösung für das Problem: "_Die Polizei ist geplatzt!_"

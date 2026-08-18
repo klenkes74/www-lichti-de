@@ -25,12 +25,6 @@ tags:
 - Supermond
 comments: []
 ---
-<p><!-- wp:paragraph --></p>
-<p>Nachdem ich erst gestern vom Blutmond heute morgen erfahren habe, musste ich die Chance ergreifen. Und es war sogar sehr bequem. Ich konnte von meinem Zimmer aus durch die Tür des französischen Balkons ein paar schöne Bilder aufnehmen.</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:more --><br />
-<!--more--><br />
-<!-- /wp:more --></p>
-<p><!-- wp:shortcode --><br />
-[nggallery id="2"]<br />
-<!-- /wp:shortcode --></p>
+Nachdem ich erst gestern vom Blutmond heute morgen erfahren habe, musste ich die Chance ergreifen. Und es war sogar sehr bequem. Ich konnte von meinem Zimmer aus durch die Tür des französischen Balkons ein paar schöne Bilder aufnehmen.
+
+[nggallery id="2"]

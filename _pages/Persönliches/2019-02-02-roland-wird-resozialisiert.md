@@ -32,15 +32,10 @@ tags:
 - Berater
 comments: []
 ---
-<p><!-- wp:paragraph {"dropCap":true} --></p>
-<p class="has-drop-cap">Nach der Trennung von meiner Frau wurde ich ja von einem "stationärem" Berater zu einem reisenden Berater (bei meinem jetzigen Arbeitgeber, der Red Hat GmbH, euphemistisch als "Road Warrior" bezeichnet).</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
-<p>Aber diese Wanderjahre sind jetzt vorbei. Ich bin gerade auf dem Weg nach Bensheim, um dort die Schlüssel meiner neuen Wohnung in Empfang zu nehmen. Je näher dieser Termin rückte, wurde mir klarer, dass nun ein Lebensabschnitt zur Neige geht. Einen Abschnitt, den ich im Großen und Ganzen genossen habe.</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
-<p>Aber nun beginnt ein neuer Abschnitt. Und über meinen Weg zurück in ein "normales Leben" werde ich in der nächsten Zeit schreiben. Dabei soll es kein Tagebuch werden sondern eher Schlaglichter auf die Änderungen am Leben werfen die ein solches Wurzelschlagen nach mehreren Jahren Vagabundenleben einfach mit sich bringt.</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph {"fontSize":"small"} --></p>
-<p class="has-small-font-size">Quelle Titelbild: rgbstock.de (© <a href="https://www.rgbstock.de/photo/mhAJ2Dq/one+different+1">Lusi - ein anders 1</a>)</p>
-<p><!-- /wp:paragraph --></p>
+Nach der Trennung von meiner Frau wurde ich ja von einem "stationärem" Berater zu einem reisenden Berater (bei meinem jetzigen Arbeitgeber, der Red Hat GmbH, euphemistisch als "Road Warrior" bezeichnet).
+
+Aber diese Wanderjahre sind jetzt vorbei. Ich bin gerade auf dem Weg nach Bensheim, um dort die Schlüssel meiner neuen Wohnung in Empfang zu nehmen. Je näher dieser Termin rückte, wurde mir klarer, dass nun ein Lebensabschnitt zur Neige geht. Einen Abschnitt, den ich im Großen und Ganzen genossen habe.
+
+Aber nun beginnt ein neuer Abschnitt. Und über meinen Weg zurück in ein "normales Leben" werde ich in der nächsten Zeit schreiben. Dabei soll es kein Tagebuch werden sondern eher Schlaglichter auf die Änderungen am Leben werfen die ein solches Wurzelschlagen nach mehreren Jahren Vagabundenleben einfach mit sich bringt.
+
+Quelle Titelbild: rgbstock.de (© [Lusi - ein anders 1](https://www.rgbstock.de/photo/mhAJ2Dq/one+different+1))

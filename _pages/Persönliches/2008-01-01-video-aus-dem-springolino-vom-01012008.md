@@ -23,7 +23,6 @@ categories:
 tags: []
 comments: []
 ---
+![Video aus dem Springolino vom 01.01.2008](/assets/gallery/Springolino-Video.mpg "Video aus dem Springolino vom 01.01.2008")
 
-<img title="Video aus dem Springolino vom 01.01.2008" href="/assets/gallery/Springolino-Video.mpg" alt="Video aus dem Springolino vom 01.01.2008" />
-
-<p>Wieder einmal waren wir im Springolino. Diesmal waren Nils und Frauke mit dabei und wir haben es endlich geschafft, mal ein <a title="Video aus dem Springolino vom 01.01.2008" href="/assets/gallery/Springolino-Video.mpg">Video</a> (ca. 38 MB) zu drehen. Hier ist es nun ...</p>
+Wieder einmal waren wir im Springolino. Diesmal waren Nils und Frauke mit dabei und wir haben es endlich geschafft, mal ein [Video](/assets/gallery/Springolino-Video.mpg "Video aus dem Springolino vom 01.01.2008") (ca. 38 MB) zu drehen. Hier ist es nun ...

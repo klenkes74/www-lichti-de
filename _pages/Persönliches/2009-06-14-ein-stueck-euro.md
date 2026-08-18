@@ -21,5 +21,5 @@ categories:
 tags: []
 comments: []
 ---
-<p>Mal wieder hat unsere Alex für ein Lachen gesorgt. Wir waren einkaufen und Alex wollte auf so ein elektrisches Pferd, wie sie nun mal in Kaufhäusern rumstehen. Der Papa hat sie dann auch aus dem Einkaufswagen geholt und meinte, dass sie jetzt hinkönne. Da stellt sich Alex neben ihren Papa und meint "Gib mir mal ein Stück Euro!"<br />
-Das Lachen war groß und die Oma gab ihr dann ein Stück Euro !</p>
+Mal wieder hat unsere Alex für ein Lachen gesorgt. Wir waren einkaufen und Alex wollte auf so ein elektrisches Pferd, wie sie nun mal in Kaufhäusern rumstehen. Der Papa hat sie dann auch aus dem Einkaufswagen geholt und meinte, dass sie jetzt hinkönne. Da stellt sich Alex neben ihren Papa und meint "Gib mir mal ein Stück Euro!"\
+Das Lachen war groß und die Oma gab ihr dann ein Stück Euro !

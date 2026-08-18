@@ -21,12 +21,15 @@ categories:
 tags: []
 comments: []
 ---
-<p>Marvin hat es inzwischen geschafft, daß eine halbe Stunde hier unten bei uns im Büro in ihrem Reisebettchen zu ihrem Einschlafritual gehört. Das ist auch garnicht schlimm. Sie wird bettfertig gemacht und dann nochmal mit runtergenommen und darf noch hier im Reisebettchen liegen und mit zwei Kuscheltieren spielen.</p>
-<p>Heute hielt sie mir ihre Katze hin. Ich sagte nur: "Die Katze macht jetzt heia."<br />
-Daraufhin legte sie die Katze auf das Kopfkissen im Bettchen.</p>
-<p>Dann hielt sie mir ihren Kuschelhasen hin.<br />
-Ich sagte nur: "Der Hase macht jetzt heia."<br />
-Sie legte den Hasen sofort neben die Katze.</p>
-<p>Dann streckte sie ihre Hand zu mir aus.<br />
-Ich sagte nur: "Die Marvin macht jetzt heia."<br />
-Sie überlegte kurz, schaute sich um, ob da noch andere Kuscheltiere lägen und legte sich selbst dann neben Katze und Hase auf's Kopfkissen ...</p>
+Marvin hat es inzwischen geschafft, daß eine halbe Stunde hier unten bei uns im Büro in ihrem Reisebettchen zu ihrem Einschlafritual gehört. Das ist auch garnicht schlimm. Sie wird bettfertig gemacht und dann nochmal mit runtergenommen und darf noch hier im Reisebettchen liegen und mit zwei Kuscheltieren spielen.
+
+Heute hielt sie mir ihre Katze hin. Ich sagte nur: "Die Katze macht jetzt heia."\
+Daraufhin legte sie die Katze auf das Kopfkissen im Bettchen.
+
+Dann hielt sie mir ihren Kuschelhasen hin.\
+Ich sagte nur: "Der Hase macht jetzt heia."\
+Sie legte den Hasen sofort neben die Katze.
+
+Dann streckte sie ihre Hand zu mir aus.\
+Ich sagte nur: "Die Marvin macht jetzt heia."\
+Sie überlegte kurz, schaute sich um, ob da noch andere Kuscheltiere lägen und legte sich selbst dann neben Katze und Hase auf's Kopfkissen ...

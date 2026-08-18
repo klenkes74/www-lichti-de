@@ -28,12 +28,8 @@ tags:
 - custom resource
 comments: []
 ---
-<p><!-- wp:paragraph --></p>
-<p>Nachdem sich Let's Plays und einfache Chat-Streams als erfolgreich gezeigt haben und auch technische Webinars fast zum Standard geworden sind, will ich das noch weiter treiben.</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
-<p>Ich werde meine Softwareentwicklung des Operators unter <a href="https://github.com/klenkes74/k8s-installed-feature-catalogue" target="_blank" rel="noreferrer noopener">https://github.com/klenkes74/k8s-installed-feature-catalogue</a> vollständig streamen. Die Streams werden bis auf weiteres auf <a rel="noreferrer noopener" href="https://twitch.com/klenkes74" target="_blank">Twitch</a> laufen und dann später als Uploads auf <a rel="noreferrer noopener" href="https://youtube.com/klenkes74" target="_blank">Youtube</a> hochgeladen.</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
-<p>Wenn ihr weitere Ideen habt oder euch beteiligen möchtet, bin ich natürlich immer offen.</p>
-<p><!-- /wp:paragraph --></p>
+Nachdem sich Let's Plays und einfache Chat-Streams als erfolgreich gezeigt haben und auch technische Webinars fast zum Standard geworden sind, will ich das noch weiter treiben.
+
+Ich werde meine Softwareentwicklung des Operators unter [https://github.com/klenkes74/k8s-installed-feature-catalogue](https://github.com/klenkes74/k8s-installed-feature-catalogue) vollständig streamen. Die Streams werden bis auf weiteres auf [Twitch](https://twitch.com/klenkes74) laufen und dann später als Uploads auf [Youtube](https://youtube.com/klenkes74) hochgeladen.
+
+Wenn ihr weitere Ideen habt oder euch beteiligen möchtet, bin ich natürlich immer offen.

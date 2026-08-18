@@ -21,5 +21,6 @@ categories:
 tags: []
 comments: []
 ---
-<p>Alex ist gewohnt, daß unser Wohnzimmer vom großen Kachelofen geheizt wird. Als es heute sehr kalt war und wir ins kalte Auto stiegen, bettelte sie nur einfach: "Papa, bitte mach den Ofen vom Auto an!"</p>
-<p>Jaja, das ist Kinderlogk ...</p>
+Alex ist gewohnt, daß unser Wohnzimmer vom großen Kachelofen geheizt wird. Als es heute sehr kalt war und wir ins kalte Auto stiegen, bettelte sie nur einfach: "Papa, bitte mach den Ofen vom Auto an!"
+
+Jaja, das ist Kinderlogk ...

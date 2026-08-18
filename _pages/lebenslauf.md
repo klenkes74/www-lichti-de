@@ -22,14 +22,14 @@ comments: []
 ## Berufstätigkeiten
 
 
-### 10/2023 bis heute - Software Entwickler bei der  SEW-EURODRIVE GmbH & Co KG in Bruchsal
+### 10/2023 bis heute - Senior Platform Engineer bei der  SEW-EURODRIVE GmbH & Co KG in Bruchsal
 Planung und Coaching einer agilen Transformation eines kleines Softwareentwicklerteams ohne Führungsverantwortung.
 Durch laterale Führung soll ein sehr traditionell arbeitendes Team an moderne Entwicklungsmethoden und auch Softwarchitekturen herangeführt werden.
 Zur Untersüttzung muss das dazu notwendige Platform Engineering durch den Aufbau einer kompletten Internal Developer Platform und Kubernetes-basierten Laufzeitumgebung durchgeführt werden.
 
 ### 01/2016 bis 09/2023 - Principal Consultant bei der Red Hat GmbH in Grasbrunn
 
-### 05/2011 bis 12/2025 - Senior Consultant bei der ITConcepts Professional GmbH in Bonn
+### 05/2011 bis 12/2015 - Senior Consultant bei der ITConcepts Professional GmbH in Bonn
 
 ### 02/2001 bis 05/2011 - Telefónica O<sub>2</sub> Germany GmbH & Co. OHG und Rechtsvorgänger in Verl**
 

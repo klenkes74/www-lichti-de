@@ -21,8 +21,12 @@ categories:
 tags: []
 comments: []
 ---
-<p>Hallo ihr,</p>
-<p>ich bin also bald grosse Schwester... aber ich kann euch sagen, dass macht ganz schön müde...</p>
-<p>Gute Nacht!</p>
-<p><a href="https://www.lichti.de/wp-content/uploads/2007/03/dsci0007.JPG" title="Grosse Schwester werden macht müde…"><img src="https://www.lichti.de/wp-content/uploads/2007/03/dsci0007.thumbnail.JPG" alt="Grosse Schwester werden macht müde…" /></a><a href="https://www.lichti.de/wp-content/uploads/2007/03/dsci0006.JPG" title="Grosse müde Schwester"><img src="https://www.lichti.de/wp-content/uploads/2007/03/dsci0006.thumbnail.JPG" alt="Grosse müde Schwester" /></a></p>
-<p>Eure Alexandra Maria</p>
+Hallo ihr,
+
+ich bin also bald grosse Schwester... aber ich kann euch sagen, dass macht ganz schön müde...
+
+Gute Nacht!
+
+[![Grosse Schwester werden macht müde…](https://www.lichti.de/wp-content/uploads/2007/03/dsci0007.thumbnail.JPG)](https://www.lichti.de/wp-content/uploads/2007/03/dsci0007.JPG "Grosse Schwester werden macht müde…")[![Grosse müde Schwester](https://www.lichti.de/wp-content/uploads/2007/03/dsci0006.thumbnail.JPG)](https://www.lichti.de/wp-content/uploads/2007/03/dsci0006.JPG "Grosse müde Schwester")
+
+Eure Alexandra Maria

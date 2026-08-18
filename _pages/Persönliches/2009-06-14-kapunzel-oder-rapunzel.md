@@ -21,4 +21,4 @@ categories:
 tags: []
 comments: []
 ---
-<p>Alex wollte uns die Geschichte von Schneewitche und den 7 Zwergen erzählen, danach sollte wohl noch die Geschichte der 7 Geißlein kommen, denn leider brachte sie da etwas durcheinander und erzählte im Endeffekt die Geschichte von "Kapunzel und die sieben Zwölflein!" Wir haben sehr geschmunzelt.</p>
+Alex wollte uns die Geschichte von Schneewitche und den 7 Zwergen erzählen, danach sollte wohl noch die Geschichte der 7 Geißlein kommen, denn leider brachte sie da etwas durcheinander und erzählte im Endeffekt die Geschichte von "Kapunzel und die sieben Zwölflein!" Wir haben sehr geschmunzelt.

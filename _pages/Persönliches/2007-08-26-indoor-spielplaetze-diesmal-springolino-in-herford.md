@@ -22,6 +22,8 @@ categories:
 tags: []
 comments: []
 ---
-<p>Nachdem zur Zeit das Wetter nicht so berauschend ist, haben wir uns auf die Suche gemacht, was wir so mit Alex anfangen können, daß sie sich so richtig austoben kann.</p>
-<p>Und dabei sind wir auf "Indoor-Spielplätze" gekommen. Das sind wohl Lagerhallen oder ehemalige Supermärkte, in denen Gerüstbauer große Kletteranlagen, Trampoline usw. aufgebaut haben.</p>
-<p>Wir waren in Herford, im Springolino.</p>
+Nachdem zur Zeit das Wetter nicht so berauschend ist, haben wir uns auf die Suche gemacht, was wir so mit Alex anfangen können, daß sie sich so richtig austoben kann.
+
+Und dabei sind wir auf "Indoor-Spielplätze" gekommen. Das sind wohl Lagerhallen oder ehemalige Supermärkte, in denen Gerüstbauer große Kletteranlagen, Trampoline usw. aufgebaut haben.
+
+Wir waren in Herford, im Springolino.

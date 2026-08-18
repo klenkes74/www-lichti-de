@@ -22,10 +22,16 @@ categories:
 tags: []
 comments: []
 ---
-<p>Heute morgen beim Frühstücken wollte Alex wieder mal Mama und Papa testen und fragte: "Wie kommt eigentlich das Eigelb in das Ei?"</p>
-<p>Nici überlegte kurz und meinte nur: "Frag Papa."</p>
-<p>Also fing ich an: "Das macht die Eigelbinjektionsmaschine. Weißt Du, Alex: Wenn die Eier noch ganz frisch sind, ist die Schale ganz weich und formbar. Da kann man mit einer kleinen ganz dünnen Nadel durch die Schale stechen und das Eigelb einspritzen. Wenn man die Nadel rauszieht, dann schließt sich die weiche Schale wieder."</p>
-<p>Alex schaute recht verwirrt zwischen mir, Nici und Doris hin- und her.</p>
-<p>"Glaubst Du mir nicht?"</p>
-<p>"Aber die Eier kommen doch aus Hühnern."</p>
-<p>"Wenn Du es weißt, warum fragst Du dann?"</p>
+Heute morgen beim Frühstücken wollte Alex wieder mal Mama und Papa testen und fragte: "Wie kommt eigentlich das Eigelb in das Ei?"
+
+Nici überlegte kurz und meinte nur: "Frag Papa."
+
+Also fing ich an: "Das macht die Eigelbinjektionsmaschine. Weißt Du, Alex: Wenn die Eier noch ganz frisch sind, ist die Schale ganz weich und formbar. Da kann man mit einer kleinen ganz dünnen Nadel durch die Schale stechen und das Eigelb einspritzen. Wenn man die Nadel rauszieht, dann schließt sich die weiche Schale wieder."
+
+Alex schaute recht verwirrt zwischen mir, Nici und Doris hin- und her.
+
+"Glaubst Du mir nicht?"
+
+"Aber die Eier kommen doch aus Hühnern."
+
+"Wenn Du es weißt, warum fragst Du dann?"

@@ -23,11 +23,18 @@ categories:
 tags: []
 comments: []
 ---
-<p>Liebe macht <strong>Arbeit</strong>.</p>
-<p><strong>Arbeit</strong> trägt <em>Früchte</em>.</p>
-<p>Unser <em>Früchtchen</em> wurde heute geboren.</p>
-<p><!--more--><strong>Marvin</strong></p>
-<p>3480 g - 50 cm - 10:34</p>
-<p>Kind ...</p>
-<p><img src="/assets/gallery/geburt_marvin/100_0262.JPG" alt="Marvin"></p>
-<p>... ist wohlauf.</p>
+Liebe macht **Arbeit**.
+
+**Arbeit** trägt _Früchte_.
+
+Unser _Früchtchen_ wurde heute geboren.
+
+**Marvin**
+
+3480 g - 50 cm - 10:34
+
+Kind ...
+
+![Marvin](/assets/gallery/geburt_marvin/100_0262.JPG)
+
+... ist wohlauf.

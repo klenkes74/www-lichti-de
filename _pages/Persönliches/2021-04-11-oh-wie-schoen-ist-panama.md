@@ -26,13 +26,8 @@ tags:
 - Panama
 comments: []
 ---
-<p>Hier sind die Bilder mit den Gremlins vom 13. Februar 2021</p>
-<a href="/assets/gallery/panama-2021-02-13/IMG_0847.JPG"><img src="/assets/gallery/panama-2021-02-13/thumbs/thumbs_IMG_0847.JPG" /></a>
-<a href="/assets/gallery/panama-2021-02-13/IMG_0868.JPG"><img src="/assets/gallery/panama-2021-02-13/thumbs/thumbs_IMG_0868.JPG" /></a>
-<a href="/assets/gallery/panama-2021-02-13/IMG_0869.JPG"><img src="/assets/gallery/panama-2021-02-13/thumbs/thumbs_IMG_0869.JPG" /></a>
-<a href="/assets/gallery/panama-2021-02-13/IMG_0870.JPG"><img src="/assets/gallery/panama-2021-02-13/thumbs/thumbs_IMG_0870.JPG" /></a>
-<a href="/assets/gallery/panama-2021-02-13/IMG_0876.JPG"><img src="/assets/gallery/panama-2021-02-13/thumbs/thumbs_IMG_0876.JPG" /></a>
-<a href="/assets/gallery/panama-2021-02-13/IMG_0891.JPG"><img src="/assets/gallery/panama-2021-02-13/thumbs/thumbs_IMG_0891.JPG" /></a>
-<p><!-- wp:imagely/nextgen-gallery --><br />
-[ngg src="albums" ids="2" display="basic_compact_album"]<br />
-<!-- /wp:imagely/nextgen-gallery --></p>
+Hier sind die Bilder mit den Gremlins vom 13. Februar 2021
+
+[![](/assets/gallery/panama-2021-02-13/thumbs/thumbs_IMG_0847.JPG)](/assets/gallery/panama-2021-02-13/IMG_0847.JPG)[![](/assets/gallery/panama-2021-02-13/thumbs/thumbs_IMG_0868.JPG)](/assets/gallery/panama-2021-02-13/IMG_0868.JPG)[![](/assets/gallery/panama-2021-02-13/thumbs/thumbs_IMG_0869.JPG)](/assets/gallery/panama-2021-02-13/IMG_0869.JPG)[![](/assets/gallery/panama-2021-02-13/thumbs/thumbs_IMG_0870.JPG)](/assets/gallery/panama-2021-02-13/IMG_0870.JPG)[![](/assets/gallery/panama-2021-02-13/thumbs/thumbs_IMG_0876.JPG)](/assets/gallery/panama-2021-02-13/IMG_0876.JPG)[![](/assets/gallery/panama-2021-02-13/thumbs/thumbs_IMG_0891.JPG)](/assets/gallery/panama-2021-02-13/IMG_0891.JPG)
+
+[ngg src="albums" ids="2" display="basic\_compact\_album"]

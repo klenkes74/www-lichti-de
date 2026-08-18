@@ -25,5 +25,6 @@ tags:
 - Vorratsdatenspeicherung
 comments: []
 ---
-<p>Da YouTube mir nicht erlaubt, direkt auf die folgende Liste zu verlinken, muss ich leider über diese Seite hier gehen. Hier gibt es die Links:</p>
-<p><a href="http://www.eaid-berlin.de/?page_id=684">Linkliste zur Vorratsdatenspeicherung</a></p>
+Da YouTube mir nicht erlaubt, direkt auf die folgende Liste zu verlinken, muss ich leider über diese Seite hier gehen. Hier gibt es die Links:
+
+[Linkliste zur Vorratsdatenspeicherung](http://www.eaid-berlin.de/?page_id=684)

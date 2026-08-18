@@ -22,7 +22,8 @@ categories:
 tags: []
 comments: []
 ---
-<p>Heute waren wir wieder im Springolino, nachdem es letzten Sonntag dort echt schön war. Heute allerdings nicht so lange, da der Hund auf uns wartete ...</p>
-<p>Dafür waren wir später dann noch auf der lokalen Kirmes "Verler Leben".<br />
-<!--more--><br />
-[mygal=2007-09-02-1]</p>
+Heute waren wir wieder im Springolino, nachdem es letzten Sonntag dort echt schön war. Heute allerdings nicht so lange, da der Hund auf uns wartete ...
+
+Dafür waren wir später dann noch auf der lokalen Kirmes "Verler Leben".\
+\
+[mygal=2007-09-02-1]
