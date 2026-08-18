@@ -24,5 +24,6 @@ tags:
 - RPG
 comments: []
 ---
-<p>Nach mehreren Jahren Arbeit (nebenbei immer wieder ein bißchen) und einer langen familiär bedingten Pause, ist mein LoGD-Server <a title="Miharu Wars - Steampunk im Japan des Jahres 1912" href="http://www.miharu-wars.de" target="_blank" rel="noopener noreferrer">Miharu Wars</a> nun bereit, der Öffentlichkeit übergeben zu werden. Neuigkeiten gibt es immer wieder im dazugehörigen <a title="Miharo Wars Blog" href="http://blog.miharu-wars.de" target="_blank" rel="noopener noreferrer">Blog</a>.</p>
-<p>Viel Spaß beim Spielen in einer für LoGD recht ungewöhnlichen Welt ...</p>
+Nach mehreren Jahren Arbeit (nebenbei immer wieder ein bißchen) und einer langen familiär bedingten Pause, ist mein LoGD-Server [Miharu Wars](http://www.miharu-wars.de "Miharu Wars - Steampunk im Japan des Jahres 1912") nun bereit, der Öffentlichkeit übergeben zu werden. Neuigkeiten gibt es immer wieder im dazugehörigen [Blog](http://blog.miharu-wars.de "Miharo Wars Blog").
+
+Viel Spaß beim Spielen in einer für LoGD recht ungewöhnlichen Welt ...

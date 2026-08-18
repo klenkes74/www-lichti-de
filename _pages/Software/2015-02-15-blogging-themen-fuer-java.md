@@ -21,6 +21,8 @@ categories:
 tags: []
 comments: []
 ---
-<p>Michael Sharhag hat einen schönen zusammenfassenden <a title="Artikel über die Nutzung der java.time API in Java 8" href="http://www.mscharhag.com/2014/02/java-8-datetime-api.html">Artikel</a> über die Nutzung der Java 8 java.time API geschrieben. Den will ich euch nicht vorenthalten.</p>
-<p>Qualifier sind bei Dependency Injection sehr wichtig. Daher ist auch der von <a title="Spring IO: A Qaulity Qualifier" href="http://spring.io/blog/2014/11/04/a-quality-qualifier">Pivotal veröffentlichte Blogbeitrag</a> sehr interessant.</p>
-<p>Seit Java 7 gibt es das <a title="Java SE 7 -- ServiceLoader" href="http://docs.oracle.com/javase/7/docs/api/java/util/ServiceLoader.html">ServiceLoader-Interface</a>. Eine sehr interessante Sache. Kann man eigentlich öfter verwenden, als man denkt ...</p>
+Michael Sharhag hat einen schönen zusammenfassenden [Artikel](http://www.mscharhag.com/2014/02/java-8-datetime-api.html "Artikel über die Nutzung der java.time API in Java 8") über die Nutzung der Java 8 java.time API geschrieben. Den will ich euch nicht vorenthalten.
+
+Qualifier sind bei Dependency Injection sehr wichtig. Daher ist auch der von [Pivotal veröffentlichte Blogbeitrag](http://spring.io/blog/2014/11/04/a-quality-qualifier "Spring IO: A Qaulity Qualifier") sehr interessant.
+
+Seit Java 7 gibt es das [ServiceLoader-Interface](http://docs.oracle.com/javase/7/docs/api/java/util/ServiceLoader.html "Java SE 7 -- ServiceLoader"). Eine sehr interessante Sache. Kann man eigentlich öfter verwenden, als man denkt ...

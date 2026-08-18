@@ -28,38 +28,23 @@ tags:
 - documentation
 comments: []
 ---
-<p><!-- wp:paragraph --></p>
-<p>(<strong><a href="https://www.lichti.de/2019/05/28/providing-documentation-the-openshift-way/">Providing documentation the OpenShift way</a></strong>&nbsp;– Part 3)</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
-<p>After preparing the software, now comes the ease part: writing the documentation. Ok, it's not the easiest part as every developer and system integrator knows.</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
-<p>But generating the documentation pod now is quite easy.</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:more --><br />
-<!--more--><br />
-<!-- /wp:more --></p>
-<p><!-- wp:paragraph --></p>
-<p>All you need is the git repo containing the documentation and a BuildConfig with the git coordinates of the documentation. The git coordinates are the git URI, the branch name and the contextDir of the documentation. If the documentation is in directory /documentation of your source repo, that's the contextDir.</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
-<p>The only thing the generator enforces is, that you need to have an index.adoc in the root of your contextDir. It will convert any file named *.adoc inside the contextDir to HTML. And all files within the contextDir are copied to the output container. So images etc. may be transfered, too.</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
-<p>The result is a container containing a webserver and static data to be served. Just run it and you have a standalone static documentation site.</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
-<p><em>The next part will take care of bundling everything in nice templates for easy use by the delivery projects.</em></p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
-<p><em>This article is part of the small series:</em></p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:list --></p>
-<ul>
-<li>Part 1: <a href="https://www.lichti.de/2019/05/28/providing-documentation-the-openshift-way/">Providing documentation the OpenShift way</a></li>
-<li>Part 2: <a href="https://www.lichti.de/2019/05/28/creating-the-s2i-builder-with-asciidoc-generation-software-included/">Creating the s2i builder with ASCIIDOC generation software included</a></li>
-<li>Part 3: Creating the documentation site</li>
-<li>Part 4: <a href="https://www.lichti.de/2019/05/31/bundling-the-components-for-openshift/">Bundling the components for OpenShift</a></li>
-</ul>
-<p><!-- /wp:list --></p>
+(**[Providing documentation the OpenShift way](https://www.lichti.de/2019/05/28/providing-documentation-the-openshift-way/)** – Part 3)
+
+After preparing the software, now comes the ease part: writing the documentation. Ok, it's not the easiest part as every developer and system integrator knows.
+
+But generating the documentation pod now is quite easy.
+
+All you need is the git repo containing the documentation and a BuildConfig with the git coordinates of the documentation. The git coordinates are the git URI, the branch name and the contextDir of the documentation. If the documentation is in directory /documentation of your source repo, that's the contextDir.
+
+The only thing the generator enforces is, that you need to have an index.adoc in the root of your contextDir. It will convert any file named \*.adoc inside the contextDir to HTML. And all files within the contextDir are copied to the output container. So images etc. may be transfered, too.
+
+The result is a container containing a webserver and static data to be served. Just run it and you have a standalone static documentation site.
+
+_The next part will take care of bundling everything in nice templates for easy use by the delivery projects._
+
+_This article is part of the small series:_
+
+- Part 1: [Providing documentation the OpenShift way](https://www.lichti.de/2019/05/28/providing-documentation-the-openshift-way/)
+- Part 2: [Creating the s2i builder with ASCIIDOC generation software included](https://www.lichti.de/2019/05/28/creating-the-s2i-builder-with-asciidoc-generation-software-included/)
+- Part 3: Creating the documentation site
+- Part 4: [Bundling the components for OpenShift](https://www.lichti.de/2019/05/31/bundling-the-components-for-openshift/)

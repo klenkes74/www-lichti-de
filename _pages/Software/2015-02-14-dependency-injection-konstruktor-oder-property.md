@@ -20,9 +20,14 @@ categories:
 tags: []
 comments: []
 ---
-<p>Dependency Injection hat sich durchgesetzt. Das muss also nicht mehr diskutiert werden. Es gibt zwar noch alte Projekte, die anders arbeiten (davon gibt es massig, denn auch in der Vergangenheit waren wir Programmierer ja nicht faul sondern haben Software geschrieben) - aber neuere Entwicklungen kommen selten ohne aus.</p>
-<p>Leider gibt es noch oft Diskussionen, ob die DI via Property (also Setter-Methoden) oder den Konstruktor gehen soll. In den meisten Softwareprojekten sieht man ausschließlich Property-Injection (also einen Default-Konstruktor sowie ganz viele Setter). Dabei wird leider eine aus meiner Sicht grundlegende Regel vergessen: nach dem Konstruktor soll das Objekt minimal lauffähig sein. Dass heißt, dass alle <em>verpflichtenden</em> Informationen vorhanden sein müssen.</p>
-<p>Oder anders ausgedrückt: in den seltensten Fällen ist ein Default-Konstrutor ausreichend für ein funktionierendes Objekt. Demnach spricht vieles für eine konstruktorbasierte DI.</p>
-<p>Aber auch hier greift es zu kurz: der Konstruktor sollte ein <em>minimal lauffähiges Objekt</em> erzeugen. Und einige DI-Dependencies werden hier nicht benötigt. Diese Abhängigkeiten sollen also nicht in den Konstruktor. Und da spricht ja auch nichts dagegen: die <em>absolut notwendigen Abhängigkeiten</em> kommen in den <em>Konstruktor</em>, die <em>optionalen Abhängigkeiten</em> in <em>Properties</em>.</p>
-<p>Oft wird angeführt, dass das weit verbreitete (und oft auch von mir genutzte) Spring-Framework keine Konstruktor-DI unterstützen würde oder die Entwickler von Konstruktor-DI abraten würden, aber wie der Blogeintrag <a title="Setter injection versus constructor injection and the use of @Required" href="http://spring.io/blog/2007/07/11/setter-injection-versus-constructor-injection-and-the-use-of-required/">http://spring.io/blog/2007/07/11/setter-injection-versus-constructor-injection-and-the-use-of-required/</a> schon 2007 beschrieb, sehen das unsere  Kollegen von Pivotal auch so wie hier beschrieben.</p>
-<p>Voilà, das Problem ist sauber gelöst. Ohne Religionskrieg.</p>
+Dependency Injection hat sich durchgesetzt. Das muss also nicht mehr diskutiert werden. Es gibt zwar noch alte Projekte, die anders arbeiten (davon gibt es massig, denn auch in der Vergangenheit waren wir Programmierer ja nicht faul sondern haben Software geschrieben) - aber neuere Entwicklungen kommen selten ohne aus.
+
+Leider gibt es noch oft Diskussionen, ob die DI via Property (also Setter-Methoden) oder den Konstruktor gehen soll. In den meisten Softwareprojekten sieht man ausschließlich Property-Injection (also einen Default-Konstruktor sowie ganz viele Setter). Dabei wird leider eine aus meiner Sicht grundlegende Regel vergessen: nach dem Konstruktor soll das Objekt minimal lauffähig sein. Dass heißt, dass alle _verpflichtenden_ Informationen vorhanden sein müssen.
+
+Oder anders ausgedrückt: in den seltensten Fällen ist ein Default-Konstrutor ausreichend für ein funktionierendes Objekt. Demnach spricht vieles für eine konstruktorbasierte DI.
+
+Aber auch hier greift es zu kurz: der Konstruktor sollte ein _minimal lauffähiges Objekt_ erzeugen. Und einige DI-Dependencies werden hier nicht benötigt. Diese Abhängigkeiten sollen also nicht in den Konstruktor. Und da spricht ja auch nichts dagegen: die _absolut notwendigen Abhängigkeiten_ kommen in den _Konstruktor_, die _optionalen Abhängigkeiten_ in _Properties_.
+
+Oft wird angeführt, dass das weit verbreitete (und oft auch von mir genutzte) Spring-Framework keine Konstruktor-DI unterstützen würde oder die Entwickler von Konstruktor-DI abraten würden, aber wie der Blogeintrag [http://spring.io/blog/2007/07/11/setter-injection-versus-constructor-injection-and-the-use-of-required/](http://spring.io/blog/2007/07/11/setter-injection-versus-constructor-injection-and-the-use-of-required/ "Setter injection versus constructor injection and the use of @Required") schon 2007 beschrieb, sehen das unsere  Kollegen von Pivotal auch so wie hier beschrieben.
+
+Voilà, das Problem ist sauber gelöst. Ohne Religionskrieg.
